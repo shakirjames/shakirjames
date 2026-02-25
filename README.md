@@ -1,4 +1,4 @@
 # Shak James
 
-Founder, Covenant State.  
+Founder, Covenant State
 Execution State as Code.
