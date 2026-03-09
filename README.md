@@ -1,3 +1,3 @@
 # Shak James
 
-shakirjames.com
+https://shakirjames.com
